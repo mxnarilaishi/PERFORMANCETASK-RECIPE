@@ -1,0 +1,22 @@
+body {
+  background-color: #FADDE1;
+  text-align: center;
+}
+
+h1 {
+  color: pink;
+}
+
+.header {
+  color: white;
+}
+
+.navigation {
+  color: lightpink;
+}
+
+a {
+  text-decoration: none;
+  color: #FF87AB;
+  
+}
