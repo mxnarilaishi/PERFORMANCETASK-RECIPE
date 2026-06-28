@@ -43,7 +43,7 @@ img {
   vertical-align: middle;
 }
 
-.wrapper1 {
+.wrapper {
   padding: 0 15px;
   display: flex;
   flex-wrap: wrap;
@@ -52,32 +52,6 @@ img {
   gap: 5 rem;
 }
 
-.intro1 {
-  flex: 1;
-}
-
-.wrapper2 {
-    padding: 0 15px;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-around;
-  gap: 5 rem;
-}
-
-.intro2 {
-  flex: 1;
-}
-
-.wrapper3 {
-    padding: 0 15px;
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-around;
-  gap: 5 rem;
-}
-
-.intro3 {
+.intro {
   flex: 1;
 }
