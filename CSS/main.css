@@ -12,7 +12,7 @@ body {
   background-color: rgb(32, 30, 34);
 }
 
-h1 {
+h1, h2 {
   color: pink;
 }
 
@@ -25,6 +25,7 @@ h1 {
 }
 
 a {
+  font-size: 30;
   text-decoration: none;
   color: #FF87AB; 
 }
