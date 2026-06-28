@@ -16,6 +16,10 @@ h1 {
 
 a {
   text-decoration: none;
-  color: #FF87AB;
-  
+  color: #FF87AB; 
+}
+
+.shrimp {
+  height: 100%;
+  max-width: 100%;
 }
