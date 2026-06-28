@@ -1,5 +1,5 @@
 body {
-  text-align: center;
+  background-color: burlywood;
 }
 
 h1 {
@@ -26,7 +26,7 @@ img {
   vertical-align: middle;
 }
 
-.sinigang {
+.wrapper1 {
   padding: 0 15px;
   display: flex;
   flex-wrap: wrap;
@@ -35,6 +35,32 @@ img {
   gap: 5 rem;
 }
 
-.intro.sinigang {
+.intro1 {
+  flex: 1;
+}
+
+.wrapper2 {
+    padding: 0 15px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 5 rem;
+}
+
+.intro2 {
+  flex: 1;
+}
+
+.wrapper3 {
+    padding: 0 15px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-around;
+  gap: 5 rem;
+}
+
+.intro3 {
   flex: 1;
 }
