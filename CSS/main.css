@@ -1,5 +1,5 @@
 body {
-  background-color: burlywood;
+  background-color: rgb(32, 30, 34);
 }
 
 h1 {
@@ -20,6 +20,7 @@ a {
 }
 
 img {
+  border-radius: 15px;
   width: 100%;
   max-width: 400px;
   object-fit: cover;
