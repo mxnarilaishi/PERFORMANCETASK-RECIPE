@@ -55,3 +55,9 @@ img {
 .intro {
   flex: 1;
 }
+
+.tab {
+  cursor: pointer;
+  color: blue;
+  text-decoration: underline;
+}
